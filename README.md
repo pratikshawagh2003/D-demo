@@ -1,2 +1,2 @@
 # D-demo
-Demo for GIt and Github
+Demo for GIt and Github.
